@@ -1,0 +1,85 @@
+{
+    "Math": [
+        {
+            "question": "What is 5 + 7?",
+            "options": ["10", "12", "14", "16"],
+            "answer": 1
+        },
+        {
+            "question": "What is 12 x 3?",
+            "options": ["18", "24", "27", "36"],
+            "answer": 2
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": ["6", "7", "8", "9"],
+            "answer": 2
+        },
+        {
+            "question": "What is 15 divided by 3?",
+            "options": ["3", "4", "5", "6"],
+            "answer": 2
+        },
+        {
+            "question": "What is the value of π (Pi) rounded to two decimal places?",
+            "options": ["3.14", "3.16", "3.12", "3.18"],
+            "answer": 0
+        }
+    ],
+    "Science": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2", "CO2", "NaCl"],
+            "answer": 0
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Venus"],
+            "answer": 1
+        },
+        {
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+            "answer": 1
+        },
+        {
+            "question": "What part of the cell contains genetic material?",
+            "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+            "answer": 1
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Quartz"],
+            "answer": 2
+        }
+    ],
+    "History": [
+        {
+            "question": "Who was the first president of the United States?",
+            "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+            "answer": 2
+        },
+        {
+            "question": "In which year did World War II end?",
+            "options": ["1942", "1945", "1950", "1939"],
+            "answer": 1
+        },
+        {
+            "question": "Which empire built the Great Wall of China?",
+            "options": ["Roman Empire", "Persian Empire", "Ming Dynasty", "Qin Dynasty"],
+            "answer": 3
+        },
+        {
+            "question": "Who discovered America?",
+            "options": ["Christopher Columbus", "Marco Polo", "Vasco da Gama", "Ferdinand Magellan"],
+            "answer": 0
+        },
+        {
+            "question": "What year did the Titanic sink?",
+            "options": ["1910", "1912", "1915", "1920"],
+            "answer": 1
+        }
+    ]
+}
+
+
